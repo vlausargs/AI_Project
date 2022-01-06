@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'chatbot',
     'recipes',
     'rest_framework',
+    'simple_chatbot',
 ]
 
 MIDDLEWARE = [
