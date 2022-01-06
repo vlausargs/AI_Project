@@ -5,7 +5,6 @@ Halo Chef merupakan website penyedia guide memasak dan resep makananm ditambah c
 project ini menggunakan pyhton django, database postgress , numpy
 # SAMPLE
 https://www.youtube.com/watch?v=ifcjtU7aBWo
-![sample](https://user-images.githubusercontent.com/39726092/145192819-66b73b1f-00a6-4fa7-aa42-6e3eadc7091f.png)
 ![image](https://user-images.githubusercontent.com/39726092/148346278-18da7b7f-6422-41cb-8899-68f14e58456c.png)
 
 #
